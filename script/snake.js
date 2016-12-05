@@ -32,3 +32,7 @@ function Snake (){
     this.length = 3;
     this.body = [{x:5, y:5}, {x:5, y:6}, {x:5, y:7}];
 }
+for (var i = 0; i < array.length; i++) {
+    var obj = array[i];
+    
+}
